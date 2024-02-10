@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SubakStore/static/css/main.1c4443e5.css",
+    "main.js": "/SubakStore/static/js/main.57554c39.js",
+    "static/media/bootstrap-icons.woff?": "/SubakStore/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/SubakStore/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/SubakStore/index.html",
+    "main.1c4443e5.css.map": "/SubakStore/static/css/main.1c4443e5.css.map",
+    "main.57554c39.js.map": "/SubakStore/static/js/main.57554c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4443e5.css",
+    "static/js/main.57554c39.js"
+  ]
+}
