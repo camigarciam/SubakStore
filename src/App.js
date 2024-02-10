@@ -30,7 +30,7 @@ function App() {
       <CartProvider>
         <NavBar></NavBar>
         <Routes>
-          <Route path="/Subak-store---React-Js"  element={<Home />}></Route>
+          <Route path="/"  element={<Home />}></Route>
           <Route path="/category/:categoryId" element={<ItemListContainer />}></Route>
           <Route path="/item/:itemId" element={<ItemDetailContainer />}></Route>
           <Route path="/cart" element={<Cart/>}></Route>
